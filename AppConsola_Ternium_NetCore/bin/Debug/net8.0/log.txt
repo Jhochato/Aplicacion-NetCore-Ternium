@@ -1,0 +1,20 @@
+--- NUEVO PROCESO: 30/08/2024 11:23:09 p. m. ---
+--- Resultados de usuarios de acuerdo a la edad ingresada ---
+30/08/2024 11:24:02 p. m.: Jhon|Chavez|41|jhon@chavez.com|Bicicleta,Caminar,Cine,Correr
+30/08/2024 11:24:02 p. m.: Brenda|Rodriguez|39|Brenda@Rodri.com|Cocinar,Gym,Kdrama
+30/08/2024 11:24:02 p. m.: Ana|Torres|64|Ana@torres.com|Caminar,Cocinar,Iglesia,Postres
+30/08/2024 11:24:02 p. m.: Andres|Chavez|36|andres@chavez.com|Cine,Patinar,viajar
+30/08/2024 11:24:02 p. m.: Paola|Leon|40|Paola.Leon@alguno.com|Caminar,Cine,Viajar
+30/08/2024 11:24:02 p. m.: Natalia|Paris|56|nata@paris.com|DJ,Fotos,Modelaje
+30/08/2024 11:24:02 p. m.: Marcela|Chavez|30|Marcela@chavez.com|Arte,Cine,Compras
+30/08/2024 11:24:02 p. m.: Adriana|Cordoba|38|Adriana@cordoba.com|Bailar,Cine,Viajar
+30/08/2024 11:24:02 p. m.: Jesus|Cardenaz|38|jesus@cardenaz.com|Baile,Cine,Comer
+30/08/2024 11:24:02 p. m.: Pablo|Perez|36|pablo@perez.com|autos,motos,programar
+30/08/2024 11:24:02 p. m.: Nelly|Jordan|42|nelly@jordan|Cerveza,Comer,Escribir,Programar
+30/08/2024 11:24:02 p. m.: Carlos|Montoya|37|Carlos@Montoya.com|Bailar,Cocinar,Leer,Viajar
+30/08/2024 11:24:02 p. m.: Mariana|Luna|46|Mariana@Luna.com|Escribir,Leer,Viajar
+30/08/2024 11:24:02 p. m.: Natys|Castaneda|39|Natys@Castaneda.com|Musica,Tatuajes,Viajar
+30/08/2024 11:24:02 p. m.: Maria|Sanchez|28|Maria@Sanchez.com|Bailar,Caminar,Cine
+--- Usuarios Creados en las Ultimas 2 Horas ---
+30/08/2024 11:24:02 p. m.: Maria|Sanchez|28|Maria@Sanchez.com|Cine-Caminar-Bailar
+--- NUEVO PROCESO: 30/08/2024 11:29:40 p. m. ---
